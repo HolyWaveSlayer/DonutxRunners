@@ -1,0 +1,42 @@
+.donut {
+background-image:url(https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10632763_10205539465870396_3271050687939728496_n.jpg?oh=de9a12148420007b103b9bf343d58d1a&oe=558C2F40&__gda__=1431024165_2dd996d7304790b350152fa63650d70f);
+height: 500px;
+background-repeat:no-repeat;
+padding-left: 20px;	
+}
+h1 {
+	text-shadow: 
+1px 1px 0 #ccc,
+2px 2px 0 #ccc,
+3px 3px 0 #444,
+4px 4px 0 #444,
+5px 5px 0 #444,
+6px 6px 0 #444;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.donut h1, .donut p {
+	color: white;
+	padding-left: 25px;
+	margin-top: 30px;
+}
+.navbar {
+	padding-top: 10px;
+	text-align: center;
+}
+li {
+	display: inline;
+	margin: 25px;
+}
+body {
+	background-color: black;
+	color: #eee;
+}
+.container {
+	font-style: monospace;
+	font-size: 18px; 
+	padding-left: 200px;
+}
