@@ -29,5 +29,7 @@ body {
 .container {
 	font-style: monospace;
 	font-size: 18px; 
-	padding-left: 200px;
+}
+.slogan {
+	text-align: center;
 }
