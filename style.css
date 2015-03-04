@@ -34,9 +34,17 @@ body {
 .slogan {
 	text-align: center;
 }
+
+#videos {
+	text-align: center;
+}
+img {
+	width: 100%;
+	}
+
 #team h1 {
 	text-align: center;
 }
-#videos {
-	text-align: center;
+.col-md-6 {
+	padding-top: 20px;
 }
