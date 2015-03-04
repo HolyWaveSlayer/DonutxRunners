@@ -28,13 +28,10 @@ body {
 	color: #eee;
 }
 .container {
+	padding-top: 20px;
 	font-style: monospace;
 	font-size: 18px; 
 }
-.slogan {
-	text-align: center;
-}
-
 #videos {
 	text-align: center;
 }
