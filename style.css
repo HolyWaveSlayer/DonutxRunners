@@ -24,7 +24,7 @@ li {
 	margin: 25px;
 }
 body {
-	background-color: black;
+	background-color: #808080;
 	color: #eee;
 }
 .container {
@@ -37,7 +37,7 @@ body {
 }
 #videos h1{
 	text-align: center;
-    background-color: #990000;
+    background-color: #000000;
     display: block;
     z-index: -1;
 }
@@ -47,9 +47,12 @@ img {
 
 #team h1 {
 	text-align: center;
-    background-color: #990000;
+    background-color: #000000;
     display: block;
     z-index: -1;
+}
+p {
+	color: black;
 }
 .col-md-6 {
 	padding-top: 20px;
