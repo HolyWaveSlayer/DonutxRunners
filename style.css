@@ -35,12 +35,21 @@ body {
 #videos {
 	text-align: center;
 }
+#videos h1{
+	text-align: center;
+    background-color: #990000;
+    display: block;
+    z-index: -1;
+}
 img {
 	width: 100%;
 	}
 
 #team h1 {
 	text-align: center;
+    background-color: #990000;
+    display: block;
+    z-index: -1;
 }
 .col-md-6 {
 	padding-top: 20px;
