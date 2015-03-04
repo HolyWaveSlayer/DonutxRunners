@@ -44,6 +44,12 @@ body {
 img {
 	width: 100%;
 	}
+#pictures h1{
+	text-align: center;
+	background-color: #000000;
+	display: block;
+	z-index: -1;
+}
 
 #team h1 {
 	text-align: center;
