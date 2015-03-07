@@ -26,11 +26,11 @@ li {
 	margin: 25px;
 }
 body {
-	background-color: #808080;
+	background-color: #000;
 	color: #eee;
 }
 .container {
-	padding-top: 20px;
+	
 	font-style: monospace;
 	font-size: 18px; 
 }
@@ -60,7 +60,7 @@ img {
     z-index: -1;
 }
 p {
-	color: black;
+	color: 999;
 }
 .col-md-6 {
 	padding-top: 20px;
