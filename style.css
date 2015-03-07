@@ -1,9 +1,11 @@
 .donut {
 background-image:url(https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10632763_10205539465870396_3271050687939728496_n.jpg?oh=de9a12148420007b103b9bf343d58d1a&oe=558C2F40&__gda__=1431024165_2dd996d7304790b350152fa63650d70f);
 height: 500px;
+background-size: 100%;
 background-repeat:no-repeat;
 background-position: center;
 padding-left: 20px;	
+font-style: bold;
 }
 ul {
 	list-style-type: none;
@@ -62,4 +64,13 @@ p {
 }
 .col-md-6 {
 	padding-top: 20px;
+}
+#footer {
+	font-size: 15px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+#footer li {
+	padding-right: 30px;
 }
