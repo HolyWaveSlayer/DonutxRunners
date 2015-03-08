@@ -36,6 +36,8 @@ body {
 }
 #videos {
 	text-align: center;
+	padding-bottom: 40px;
+	padding-top: 40px;
 }
 #videos h1{
 	text-align: center;
@@ -52,7 +54,9 @@ img {
 	display: block;
 	z-index: -1;
 }
-
+#team {
+	padding-top: 40px;
+}
 #team h1 {
 	text-align: center;
     background-color: #000000;
